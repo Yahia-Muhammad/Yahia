@@ -116,7 +116,6 @@ body{
     border-radius: 50%;
 }
 .container{
-    overflow: hidden;
     width: 85%;
     margin: auto;
 }

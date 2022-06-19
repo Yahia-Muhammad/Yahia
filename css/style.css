@@ -1,14 +1,14 @@
 *{
     padding: 0;
     margin: 0;
-    /*
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
-    */
     box-sizing: border-box;
 }
 body{
     background-color: #FBE771;
+    width: 100%;
+    overflow: hidden;
 }
 .node-left{
     position: fixed;

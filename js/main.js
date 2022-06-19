@@ -143,12 +143,12 @@ function activiteAllAnimate(){
         for(var z = 0; z <= myIconsPageOne.length - 1; z++){
 
             myIconsPageOne[z].onmouseenter = function(){
-                this.style.fontSize = "300%";
+                this.style.fontSize = "60px";
                 this.style.backgroundColor = "#ff3a2a";
                 this.style.color = "#fff";
             }
             myIconsPageOne[z].onmouseleave = function(){
-                this.style.fontSize = "265%";
+                this.style.fontSize = "50px";
                 this.style.backgroundColor = "#fff";
                 this.style.color = "#000";
             }

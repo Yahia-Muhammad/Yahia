@@ -7,8 +7,6 @@
 }
 body{
     background-color: #FBE771;
-    width: 100%;
-    overflow: hidden;
 }
 .node-left{
     position: fixed;
@@ -26,12 +24,12 @@ body{
 }
 @media (max-width: 425px){
     .node-left a {
-        margin-top: 20px;
+        margin-top: 15px;
     }
 }
 @media (max-width: 320px){
     .node-left a {
-        margin-top: 17px;
+        margin-top: 15px;
     }
 }
 .node-left .left-node{
@@ -62,8 +60,8 @@ body{
 }
 @media (max-width: 375px){
     .node-left .left-node {
-        font-size: 15px;
-        padding: 15px 5px 15px 2px;
+        font-size: 17px;
+        padding: 15px 8px 15px 7px;
     }
 }
 @media (max-width: 320px){

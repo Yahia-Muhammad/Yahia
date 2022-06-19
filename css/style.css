@@ -192,12 +192,12 @@ hr{
 }
 @media (max-width: 768px){
     .page-1 .page-1-left{
-        width: 22%;
+        width: 20%;
     }
 }
 @media (max-width: 425px){
     .page-1 .page-1-left{
-        width: 0%;
+        width: 10%;
     }
 }
 .page-1 .page-1-right {
@@ -211,7 +211,7 @@ hr{
 }
 @media (max-width: 768px){
     .page-1 .page-1-right{
-        width: 22%;
+        width: 20%;
     }
 }
 @media (max-width: 425px){
@@ -230,7 +230,7 @@ hr{
     overflow: hidden;
     background: #fff;
     color: #000;
-    padding: 70% 70%;
+    padding: 33px 33px;
     border-radius: 50%;
     font-size: 50px;
     cursor: pointer;
@@ -238,30 +238,30 @@ hr{
 }
 @media (max-width: 768px){
     .page-1 span.my-icon {
-        padding: 55% 55%;
+        padding: 27px 27px;
         font-size: 45px;
     }
 }
 @media (max-width: 425px){
     .page-1 span.my-icon {
-        padding: 55% 55%;
+        padding: 25px 25px;
         font-size: 35px;
     }
 }
 @media (max-width: 375px){
     .page-1 span.my-icon {
-        padding: 55% 55%;
+        padding: 20px 20px;
         font-size: 30px;
     }
 }
 .page-1 p.my-p{
     position: absolute;
-    left: 200%;
-    top: -4px;
+    left: 88%;
+    top: 5%;
     background: #fff;
     border-radius: 10px;
-    padding: 33% 10%;
-    width: 333%;
+    padding: 14px 10px;
+    width: 160%;
     text-align: center;
     font-size: 20px;
     cursor: pointer;
@@ -269,25 +269,29 @@ hr{
 }
 @media (max-width: 768px){
     .page-1 p.my-p {
-        padding: 33% 10%;
+        padding: 14px 10px;
+        width: 150%;
         font-size: 17px;
     }
 }
 @media (max-width: 425px){
     .page-1 p.my-p {
-        padding: 33% 10%;
+        padding: 14px 10px;
+        width: 150%;
         font-size: 14px;
     }
 }
 @media (max-width: 375px){
     .page-1 p.my-p {
-        padding: 33% 10%;
-        font-size: 12px;
-        left: 180%;
+        left: 80%;
+        top: -10%;
+        padding: 14px 10px;
+        width: 150%;
+        font-size: 13px;
     }
 }
 .page-1 p.my-p.my-p-contact{
-    left: -300%;
+    left: -133%;
 }
 .page-1 .page-1-right .page-1-right-top{
     position: relative;
